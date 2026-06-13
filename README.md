@@ -57,7 +57,7 @@ I am a dedicated **Web Developer** with a strong passion for **Software Engineer
 ---
 
 ### 🧠 Languages
-<img src="https://skillicons.dev/icons?i=lua,cpp,java,python&theme=dark" />
+<img src="https://skillicons.dev/icons?i=lua,cpp,java,python,typescript,javascript&theme=dark" />
 
 ---
 
